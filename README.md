@@ -1,4 +1,4 @@
 # Exploratory-Data-Analysis-on-Superstore-sales-dataset
 Exploratory Data Analysis on Superstore sales dataset
 
-![Dashboard](https://github.com/SubhodeepSinha/Analysis-of-COVID-19-in-India/blob/masterDashboard.png?raw=True)
+![Dashboard](https://github.com/SubhodeepSinha/Exploratory-Data-Analysis-on-Superstore-sales-dataset/blob/main/Dashboard.png?raw=True)
